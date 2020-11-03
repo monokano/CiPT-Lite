@@ -20,8 +20,8 @@ CiPT Lite.appを起動しておきます。キーボードショートカット�
 CiPT Liteは、CarbonアプリだったCiPTを64bit Cocoaアプリとして作り直したものです。Carbon版CiPTは仕様や設定が複雑すぎたので、Cocoa版は必要最小限に絞ってLiteとしました。
 
 ## 開発環境
-[Xojo](https://www.xojo.com/) 2018r3
-[MBS Plugin](https://www.monkeybreadsoftware.de/xojo/) 19.4
+* [Xojo](https://www.xojo.com/) 2018r3
+* [MBS Plugin](https://www.monkeybreadsoftware.de/xojo/) 19.4
 
 ## 更新履歴
 * v4.1.0
