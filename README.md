@@ -7,7 +7,7 @@ macOS用デストップアプリケーション。
 
 ## インストール
 CiPT Lite.appをアプリケーションフォルダなどへコピーします。
-* システム要件：OS X 10.10.5以降
+* システム要件：OS X 10.10以降
 * ダウンロード後、CiPT Lite.appを選択し、右クリックメニューの［開く］を選択してください。
 
 ## 使い方
@@ -19,7 +19,9 @@ CiPT Lite.appを起動しておきます。キーボードショートカット�
 ## 詳細
 CiPT Liteは、CarbonアプリだったCiPTを64bit Cocoaアプリとして作り直したものです。Carbon版CiPTは仕様や設定が複雑すぎたので、Cocoa版は必要最小限に絞ってLiteとしました。
 
-ソースは[Xojo](https://www.xojo.com/)のプロジェクトファイルです。[MBS Plugin](https://www.monkeybreadsoftware.de/xojo/)を使用しています。
+## 開発環境
+[Xojo](https://www.xojo.com/) 2018r3
+[MBS Plugin](https://www.monkeybreadsoftware.de/xojo/) 19.4
 
 ## 更新履歴
 * v4.1.0
